@@ -1,0 +1,11 @@
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h2, .text-agil{
+    color: #25B5D3;
+}
+.p-con{
+    color: #ffffff;
+}
